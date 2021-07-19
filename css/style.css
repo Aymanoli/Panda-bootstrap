@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,700&display=swap');
+.panda-bg-info{
+    background-color:#fceae8
+}
+.catagories img{
+    width:100px;
+}
+.panda-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF4b92 100%);
+    color:white;
+    border-radius:8px;
+    padding:9px 25px;
+    border:none;
+}
+.title-style{
+    font-size:30px;
+    font-family: 'Ubuntu', sans-serif;
+}
